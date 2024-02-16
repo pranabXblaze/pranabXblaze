@@ -11,4 +11,7 @@
 - 📫 How to reach me: ...<a href="https://twitter.com/Pranav_k456">X.com</a> 
 
 Skills:
-<a href="https://developer.mozilla.org/en-US/docs/Learn/HTML"><a href="https://fontawesome.com/icons/js?f=brands&s=solid&pc=%23FFD43B"></a></a>
+
+ - <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML">HTML</a>
+-  <a href="https://developer.mozilla.org/en-US/docs/Learn/CSS">CSS</a>
+- <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript">JS</a>
