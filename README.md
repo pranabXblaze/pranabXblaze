@@ -1,7 +1,7 @@
 Hi 👋 My name is Pranab Kumar
 =============================
 
-I'm learning web development.
+I'm learning frontend web development.
 -----------------------------
 
 I've started learning to code since high school since then I started imagining to build a game 🎮.
