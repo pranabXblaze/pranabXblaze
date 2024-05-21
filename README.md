@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pranab Kumar
 ====================================================================================================================================
 
-Filling my curiosity cup with tech , Learning Devlopment. 💻🖥️ I've started learning to code since high school since then I started imagining to build a game 🎮.
+Filling my curiosity cup with tech , Learning Devlopment. 💻🖥️ I've started learning to code from high school since then I started imagining to build a game 🎮.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [pranabkumars54@gmail.com](mailto:pranabkumars54@gmail.com)
