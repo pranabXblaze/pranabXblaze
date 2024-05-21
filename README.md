@@ -1,7 +1,7 @@
 Hi 👋 My name is Pranab Kumar
 =============================
 
-Filling my curiosity cup with tech 
+Filling my curiosity cup with tech , 
 Learning Devlopment. 💻🖥️
 
 -----------------------------
