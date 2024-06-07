@@ -5,7 +5,7 @@ Filling my curiosity cup with tech , Learning Devlopment. 💻🖥️ I've start
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [pranabkumars54@gmail.com](mailto:pranabkumars54@gmail.com)
-*   🧠  I'm learning React, Next.js
+*   🧠  I'm currently learning React, Next.js and PostgreSQL.
 *   🤝  I'm open to collaborating on Frontend projects
 *   <a href="https://www.x.com/pranav_k456" target="_blank" rel="noreferrer"><img
       src="https://img.shields.io/twitter/follow/pranav_k456?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
