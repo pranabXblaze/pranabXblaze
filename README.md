@@ -46,8 +46,10 @@ Filling my curiosity cup with tech , Learning Devlopment. 💻🖥️ I've start
                     </picture>
                     </a>
      </p>
-  ### Badges  <b>My Github Stats</b>
+  ### Badges  
+ <p>
           <a href="http://www.github.com/pranabXblaze">
-<img src="https://github-readme-stats.vercel.app/api?username=pranabXblaze&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pranabXblaze's GitHub stats" align='left/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=pranabXblaze&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pranabXblaze's GitHub stats" align='left' /></a>
+  </p>
           
          
