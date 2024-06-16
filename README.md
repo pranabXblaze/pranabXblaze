@@ -9,7 +9,7 @@ Filling my curiosity cup with tech , Learning Devlopment. 💻🖥️ I've start
 *   🤝  I'm open to collaborating on Frontend projects
 *   <a href="https://www.x.com/pranav_k456" target="_blank" rel="noreferrer"><img
       src="https://img.shields.io/twitter/follow/pranav_k456?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
-*    ![Visitor Count](https://profile-counter.glitch.me/pranabxblaze/count.svg)
+*    ![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
   
   ### Skills
 <p align="left">
